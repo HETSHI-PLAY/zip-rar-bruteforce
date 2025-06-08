@@ -17,6 +17,11 @@ if you want this script to support rar, add this:
 sudo apt install unrar
 ```
 
+# Wordlist
+```bash
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+```
+
 how to use 
 
 # command if you want to use wordlist:
